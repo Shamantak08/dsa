@@ -28,6 +28,6 @@ public class sumOfArray{
         for (int i = 0 ; i < n ; i++){
             sum = array[i] + sum;
         }
-        System.out.print(sum);
+        System.out.print(sum); //printing sum
     }
 }
