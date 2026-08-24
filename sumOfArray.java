@@ -12,6 +12,7 @@ public class sumOfArray{
             System.out.print("Enter element " + (i+1) + ": ");
             array[i] = sc.nextInt();
         }
+        
         System.out.println("");
 
         //printing original array
