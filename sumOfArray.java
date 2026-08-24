@@ -3,7 +3,7 @@ public class sumOfArray{
     public static void main(String args[]){
         Scanner sc = new Scanner (System.in);
 
-        System.out.print("Number of elements: ");
+        System.out.print("Number of elements: "); 
         int n = sc.nextInt();
 
         int[] array = new int[n];
